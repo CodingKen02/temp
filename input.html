@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>  </title>
+  <link rel="stylesheet" href=""> 
+</head>
+<body>
+    <h1>Input</h1>
+    
+    <form action="results.php" method="post">
+        Major: <input type="text" name="major">
+        <br /><br />
+        
+        <select name="class">
+            <option value="Faculty">Faculty</option>
+            <option value="Staff">Staff</option>
+            <option value="Student">Student</option>
+        </select>
+        <br /><br />
+        
+        Drink: <br />
+        <input type="radio" name="drink" value="Coke">Coke
+        <input type="radio" name="drink" value="Pepsi">Pepsi
+        <input type="radio" name="drink" value="Barqs">Barqs
+        <br /><br />
+        
+        Comments: <br />
+        <textarea name="comments" rows="20" cols="80"></textarea>
+       
+        <br /><br />
+        <input type="submit" name="submit" value="Click Me!">
+    </form>
+</body>
+</html>

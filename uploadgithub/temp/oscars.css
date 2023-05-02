@@ -1,0 +1,14 @@
+#leftcol {
+    position: absolute;
+    width: 45%;
+}
+
+#rightcol {
+    position: absolute;
+    width: 45%;
+    left: 50%; 
+}
+
+h1 {
+    text-align: center; 
+}

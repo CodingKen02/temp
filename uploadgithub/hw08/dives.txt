@@ -1,0 +1,60 @@
+Roatan,Natural Reef,28,41
+Roatan,Cave,49,67
+Roatan,Cave,49,75
+Roatan,Artificial Reef,49,28
+Bonaire,Artificial Reef,23,28
+Bonaire,Cave,28,23
+Bonaire,Wreck,49,95
+Bonaire,Wreck,24,32
+Bonaire,Natural Reef,41,53
+Bonaire,Wreck,25,36
+Grand Cayman,Artificial Reef,27,92
+Grand Cayman,Cave,47,43
+Grand Cayman,Natural Reef,22,54
+Grand Cayman,Natural Reef,45,93
+Grand Cayman,Artificial Reef,32,93
+Key Largo,Natural Reef,30,57
+Key Largo,Wreck,27,24
+Key Largo,Cave,30,51
+Key Largo,Wreck,27,57
+Key Largo,Natural Reef,48,32
+Key Largo,Natural Reef,23,51
+Key West,Wreck,44,67
+Key West,Artificial Reef,23,25
+Key West,Wreck,36,20
+Key West,Natural Reef,22,86
+Key West,Artificial Reef,30,56
+Key West,Artificial Reef,35,94
+Aruba,Cave,34,56
+Aruba,Artificial Reef,37,27
+Aruba,Artificial Reef,33,27
+Queensland,Cave,40,41
+Queensland,Wreck,29,22
+Queensland,Cave,34,38
+Queensland,Wreck,34,23
+Sipadan Island,Cave,47,80
+Sipadan Island,Wreck,39,26
+Sipadan Island,Wreck,47,29
+Sipadan Island,Natural Reef,34,31
+Belize,Cave,30,22
+Belize,Natural Reef,32,63
+Belize,Cave,41,73
+Belize,Cave,32,59
+Kailua Kona,Artificial Reef,44,63
+Kailua Kona,Natural Reef,26,60
+Kailua Kona,Natural Reef,46,74
+Kailua Kona,Wreck,24,43
+Kailua Kona,Natural Reef,30,66
+Kailua Kona,Cave,40,35
+Bali,Natural Reef,44,32
+Bali,Artificial Reef,21,25
+Bali,Cave,23,57
+Bali,Artificial Reef,41,23
+Bali,Natural Reef,34,37
+Bali,Natural Reef,47,51
+Cozumel,Natural Reef,29,43
+Cozumel,Cave,44,80
+Cozumel,Natural Reef,45,53
+Cozumel,Cave,46,96
+Cozumel,Artificial Reef,35,49
+Cozumel,Cave,34,67

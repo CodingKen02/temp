@@ -1,0 +1,11 @@
+#leftcol {
+	width: 45%;
+	float: left;
+	border-style: solid;
+}
+
+#rightcol {
+	width: 50%;
+	float: right; 
+	
+}
